@@ -1,5 +1,5 @@
 # Budget-Tracker
-![budget-app](https://user-images.githubusercontent.com/15930792/104540044-bad38800-55ec-11eb-8cc5-d7996d3ad7b7.PNG)
+
 
 #### Table of Contents
 1. [Project Description](#project-description)
@@ -11,7 +11,19 @@
 7. [License](#license)
 8. [Questions](#questions)
 
+## Website UI
 
+![budget-app](https://user-images.githubusercontent.com/15930792/104540044-bad38800-55ec-11eb-8cc5-d7996d3ad7b7.PNG)
+
+## Failed transaction as connection is set to offline
+![budget-app-transaction-failed](https://user-images.githubusercontent.com/15930792/104641429-bf914e00-5677-11eb-934f-b4e6419a10a0.PNG)
+
+## A pending request is generated with the information entered while offline
+
+![budget-app-pending](https://user-images.githubusercontent.com/15930792/104641455-c7e98900-5677-11eb-8e46-74c57518c4fa.PNG)
+
+## Information is added once website goes back online
+![budget-bulk](https://user-images.githubusercontent.com/15930792/104641468-cae47980-5677-11eb-8b81-3290c1132f27.PNG)
 
 ## Project Description
 * Web application that allows the user to add expenses and deposits to their budget with or without a connection. The application uses a graph that updates on real time to illustrate the current status of the user's budget. When entering transactions offline, it will populate the total when internet connection has been regained.
